@@ -1,8 +1,9 @@
 # little-polygraph
 
-1. 프로젝트 소개 \n
+1. 프로젝트 소개
+   
    사람들이 거짓말을 할 때 표정 변화와 목소리의 변화를 분석해서 주어진 영상에서의 인물이 거짓말을 하고 있는지 판단하려고 한다.
-2. 데이터 및 구조
+3. 데이터 및 구조
    <img width="1279" height="777" alt="image" src="https://github.com/user-attachments/assets/25ef7a00-9222-4746-ab7f-1864922530ba" />
    Truth : 60    Lie : 61
    출처: Mohamed Abouelenien, Associate Professor
