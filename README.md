@@ -4,7 +4,8 @@
    
    사람들이 거짓말을 할 때 표정 변화와 목소리의 변화를 분석해서 주어진 영상에서의 인물이 거짓말을 하고 있는지 판단하려고 한다.
    
-3. 데이터 및 구조
+2. 데이터 및 구조
+   
    <img width="1279" height="777" alt="image" src="https://github.com/user-attachments/assets/25ef7a00-9222-4746-ab7f-1864922530ba" />
    
    Truth : 60    Lie : 61
@@ -20,9 +21,13 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
    <img width="1778" height="965" alt="image" src="https://github.com/user-attachments/assets/1856c4ea-13be-420a-bd66-1981a29f59cf" />
 
-   Turht : 34    Lie : 34
+   Truth : 34    Lie : 34      (Only Frames)
    
    출처: Kaggle, https://www.kaggle.com/datasets/devvratmathur/micro-expression-dataset-for-lie-detection
+
+   Total
+
+   Truth : 102   Lie : 112
 
 
    과정
