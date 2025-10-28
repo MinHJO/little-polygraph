@@ -48,6 +48,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    <img width="1117" height="501" alt="image" src="https://github.com/user-attachments/assets/d4f7e7fc-1a5d-414e-8f77-9229489f33b7" />
 
    Micro Expression
+   
    Frown:                   Eyebrows Frown < 15
 
    Eyebrows Raise:     Eyebrows Raise  > 20
