@@ -40,11 +40,13 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    
    <img width="1000" height="445" alt="image" src="https://github.com/user-attachments/assets/ee6a6c5a-7440-4ad9-867c-5953a462ce1a" />
 
+거짓말을 할 때 얼굴에서는 눈썹, 입술, 표정 찡그림 등의 미세한 표현들이 발견된다. 이를 이용하여 영상에서 프레임별로 끊어 변화를 관측한다.
    
    Audio Features
    
    <img width="935" height="532" alt="image" src="https://github.com/user-attachments/assets/0cc4cabc-1d48-47bb-afb7-616a43bdc6af" />
 
+마찬가지로 음성에서의 목소리의 떨림, 높낮이의 변화, MFCC의 변화를 관측한다.
 
    Face Features 평균 추출값
    <img width="920" height="442" alt="image" src="https://github.com/user-attachments/assets/c33ab241-0e4c-4643-ac43-0a5daefee85a" />
@@ -65,13 +67,46 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    Head Turn:             Head Turn > 10
 
 
+3. 모델 평가
+
+   프레임별 변화와 음성의 변화를 csv 파일로 저장하여 모델의 평가를 진행하였다.
+
+   3-1. CNN
+   
+   ||accuracy|val_acc|loss|val_loss|
+   |----|------|------|------|------|
+   ||0.961|0.9286|0.1759|0.178|
+
+   3-2. GRU
+   
+   ||accuracy|val_acc|loss|val_loss|
+   |----|------|------|------|------|
+   ||0.934|0.8214|0.2167|0.3149|
+
+   3.3. NetVLAD
+
+   ||accuracy|val_acc|loss|val_loss|
+   |----|------|------|------|------|
+   ||0.9455|0.8929|0.1833|0.1821|
+
+   3-4. BiGRU + Δxₜ
+
+   ||accuracy|val_acc|loss|val_loss|
+   |----|------|------|------|------|
+   ||0.9909|0.9286|0.0939|0.2381|
+
+   3-5. NetVLAD + Δxₜ
+
+   ||accuracy|val_acc|loss|val_loss|
+   |----|------|------|------|------|
+   ||0.9545|0.9286|0.1890|0.1392|
 
 
+   프레임별 차이를 위해서 Δxₜ를 사용했으며, 같은 데이터를 사용하여 여러 모델을 학습시켰다.
+   학습에 필요한 데이터가 적었기에 적은 데이터로 학습이 가능한 NetVLAD를 사용해봤는데 예상보다 좋은 결과를 나타낸다. NetVLAD가 순간적인 패턴 분포를 분석하기에 좋은 결과를 가져온 것으로 예상한다.
 
+   3-6. 모델 분석 요약
+   
+<img width="870" height="234" alt="image" src="https://github.com/user-attachments/assets/21052891-c69d-45f5-bddb-029d81940142" />
 
-
-
-
-
-
-
+   
