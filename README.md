@@ -54,17 +54,17 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    Audio Features 평균 추출값
    <img width="1117" height="501" alt="image" src="https://github.com/user-attachments/assets/d4f7e7fc-1a5d-414e-8f77-9229489f33b7" />
 
-   Micro Expression
+   Micro Expression 분류 기준
    
-   Frown:                   Eyebrows Frown < 15
+   |Frown|          Eyebrows Frown < 15|
 
-   Eyebrows Raise:     Eyebrows Raise  > 20
+   |Eyebrows Raise|     Eyebrows Raise  > 20|
 
-   Lips Up:                  Lips up < 10
+   |Lips Up|                  Lips up < 10|
 
-   Lips Protruded:       Lips Protruded > 5
+   |Lips Protruded|       Lips Protruded > 5|
 
-   Head Turn:             Head Turn > 10
+   |Head Turn|             Head Turn > 10|
 
 
 3. 모델 평가
