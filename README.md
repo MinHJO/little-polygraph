@@ -112,8 +112,10 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
       테스트에 사용한 영상은 드라마나 예능 속의 장면을 이용하였다.
 
-<img width="933" height="972" alt="image" src="https://github.com/user-attachments/assets/275dc13d-0115-491f-912e-6f2055ee87a6" />
-      아리아나 그란데 인터뷰
+<img width="765" height="365" alt="image" src="https://github.com/user-attachments/assets/275dc13d-0115-491f-912e-6f2055ee87a6" />
+
+  아리아나 그란데 인터뷰
+      
       
   ▸ 예측 결과: 진실
   
