@@ -114,7 +114,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 <img width="465" height="365" alt="image" src="https://github.com/user-attachments/assets/275dc13d-0115-491f-912e-6f2055ee87a6" />
 
-  아리아나 그란데 인터뷰
+  아리아나 그란데 인터뷰 (진실)
       
       
   |예측 결과| 진실|
@@ -124,7 +124,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 <img width="1399" height="674" alt="image" src="https://github.com/user-attachments/assets/9a031bd8-2942-44f6-b4b1-53f3b59eb778" />
 
-  무한도전 박명수 거짓말 탐지기
+  무한도전 박명수 거짓말 탐지기 (거짓말)
 
   |예측 결과| 거짓말|
   |-----|------|
@@ -133,7 +133,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 <img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/e0a4122c-cc36-46f7-abf1-8be47a333cd6" />
 
-  타짜 고니 마지막 장면
+  타짜 고니 마지막 장면 (거짓말)
       
   |예측 결과| 진실|
   |-----|------|
