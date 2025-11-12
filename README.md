@@ -6,7 +6,7 @@
    
 2. 데이터 및 구조
    
-   <img width="1279" height="777" alt="image" src="https://github.com/user-attachments/assets/25ef7a00-9222-4746-ab7f-1864922530ba" />
+   <img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/25ef7a00-9222-4746-ab7f-1864922530ba" />
    
    Truth : 60    Lie : 61
    
