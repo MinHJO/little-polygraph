@@ -59,11 +59,8 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    |Frown|          Eyebrows Frown < 15|
    |--------|------------------------|
    |Eyebrows Raise|     Eyebrows Raise  > 20|
-   |--------|------------------------|
    |Lips Up|                  Lips up < 10|
-   |--------|------------------------|
    |Lips Protruded|       Lips Protruded > 5|
-   |--------|------------------------|
    |Head Turn|             Head Turn > 10|
 
 
