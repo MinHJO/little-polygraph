@@ -57,13 +57,13 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    Micro Expression 분류 기준
    
    |Frown|          Eyebrows Frown < 15|
-
+   |--------|------------------------|
    |Eyebrows Raise|     Eyebrows Raise  > 20|
-
+   |--------|------------------------|
    |Lips Up|                  Lips up < 10|
-
+   |--------|------------------------|
    |Lips Protruded|       Lips Protruded > 5|
-
+   |--------|------------------------|
    |Head Turn|             Head Turn > 10|
 
 
@@ -73,33 +73,33 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
    3-1. CNN
    
-   ||accuracy|val_acc|loss|val_loss|
-   |----|------|------|------|------|
-   ||0.961|0.9286|0.1759|0.178|
+   |accuracy|val_acc|loss|val_loss|
+   |------|------|------|------|
+   |0.961|0.9286|0.1759|0.178|
 
    3-2. GRU
    
-   ||accuracy|val_acc|loss|val_loss|
-   |----|------|------|------|------|
-   ||0.934|0.8214|0.2167|0.3149|
+   |accuracy|val_acc|loss|val_loss|
+   |------|------|------|------|
+   |0.934|0.8214|0.2167|0.3149|
 
    3.3. NetVLAD
 
-   ||accuracy|val_acc|loss|val_loss|
-   |----|------|------|------|------|
-   ||0.9455|0.8929|0.1833|0.1821|
+   |accuracy|val_acc|loss|val_loss|
+   |------|------|------|------|
+   |0.9455|0.8929|0.1833|0.1821|
 
    3-4. BiGRU + Δxₜ
 
-   ||accuracy|val_acc|loss|val_loss|
-   |----|------|------|------|------|
-   ||0.9909|0.9286|0.0939|0.2381|
+   |accuracy|val_acc|loss|val_loss|
+   |------|------|------|------|
+   |0.9909|0.9286|0.0939|0.2381|
 
    3-5. NetVLAD + Δxₜ
 
-   ||accuracy|val_acc|loss|val_loss|
-   |----|------|------|------|------|
-   ||0.9545|0.9286|0.1890|0.1392|
+   |accuracy|val_acc|loss|val_loss|
+   |------|------|------|------|
+   |0.9545|0.9286|0.1890|0.1392|
 
 
    프레임별 차이를 위해서 Δxₜ를 사용했으며, 같은 데이터를 사용하여 여러 모델을 학습시켰다.
