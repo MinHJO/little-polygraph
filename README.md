@@ -1,10 +1,10 @@
 ## little-polygraph
 
-#1. 프로젝트 소개
+# 1. 프로젝트 소개
    
    사람들이 거짓말을 할 때 표정 변화와 목소리의 변화를 분석해서 주어진 영상에서의 인물이 거짓말을 하고 있는지 판단하려고 한다.
    
-#2. 데이터 및 구조
+# 2. 데이터 및 구조
    
    <img width="950" height="450" alt="image" src="https://github.com/user-attachments/assets/25ef7a00-9222-4746-ab7f-1864922530ba" />
    
@@ -64,7 +64,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    |Head Turn|             Head Turn > 10|
 
 
-#3. 모델 평가
+# 3. 모델 평가
 
    프레임별 변화와 음성의 변화를 csv 파일로 저장하여 모델의 평가를 진행하였다.
 
@@ -106,7 +106,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    
 <img width="870" height="234" alt="image" src="https://github.com/user-attachments/assets/21052891-c69d-45f5-bddb-029d81940142" />
 
-#4. Test
+# 4. Test
 
 테스트는 예상외로 좋은 결과를 보여준 NetVLAD 모델을 이용하여 진행하였다
     
@@ -142,7 +142,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
    드라마의 장면을 테스트 했을 때는 결과가 잘 못 나오는 경우가 더러 있었다. 배우의 연기 실력과 드라마나 영화의 특성 상 배경 음악과 잦은 장면 변화로 인해 테스트가 어려운 것으로 보인다.
 
-#5. 결론
+# 5. 결론
 
 거짓말 탐지를 위해서 뇌파, 심전도, 영상 및 음성 등 여러가지 모드를 합성하여 사용하고 있다. 
 
