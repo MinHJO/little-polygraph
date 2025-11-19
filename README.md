@@ -147,7 +147,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 ## 5. 결론
 
-거짓말 탐지를 위해서 뇌파, 심전도, 영상 및 음성 등 여러가지 모드를 합성하여 사용하고 있다. 
+거짓말 탐지를 위해서 뇌파, 심전도, 영상 및 음성 등 여러가지 모드를 합성하여 사용하고 있다.                                                                                                                  
 
 ## 참고문헌
 
