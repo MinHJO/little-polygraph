@@ -151,6 +151,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 ## 참고문헌
 
-Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian. 2018. "Deception Detection in Videos", University of Maryland Dartmouth College.
+Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian, University of Maryland Dartmouth College. 2018. "Deception Detection in Videos", The Thirty-Second AAAI Conference
+on Artificial Intelligence (AAAI-18), pp.1695 - 1702.
 
 Gargi Joshi, Vaibhav Tasgaonkar, Aditya Deshpande, Aditya Desai, Bhavya Shah, Akshay Kushawaha, Aadith Sukumar, Kermi Kotecha, Saumit Kunder, Yoginii Waykole, Harsh Maheshwari, Abhijit Das, Shubhashi Gupta, Akanksha Subudhi, Priyanka Jain, N. K. Jain, Rahee Walambe & Ketan Kotecha. 15.03.2025. "Multimodal machine learning for deception detection using behavioral and physiological data", Scienctific Reports 15, Article number : 8943
