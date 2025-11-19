@@ -31,8 +31,11 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 
    과정
+   
    <img width="1344" height="598" alt="image" src="https://github.com/user-attachments/assets/3c0c7b8f-d1d9-4e99-8a4a-bbbe79b3e257" />
 
+   영상을 프레임 별 이미지와 음성으로 분리한 후 특징들을 추출하여 각 특징들로부터 거짓말을 할 때의 변화를 기록한다. 그 후 이들을 합성하여 영상이 거짓말을 하는 지를 판별한다.
+   
 
    특징 추출
    
