@@ -109,6 +109,13 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
    
 <img width="870" height="234" alt="image" src="https://github.com/user-attachments/assets/21052891-c69d-45f5-bddb-029d81940142" />
 
+   3-7. 기존 연구와의 비교
+
+   기존 연구는 참고문헌 [1], [2]의 결과와의 비교이다.
+
+   <img width="1004" height="353" alt="image" src="https://github.com/user-attachments/assets/d6db9f12-d214-47dc-bf05-5be7b7e6f69c" />
+
+
 ## 4. Test
 
 테스트는 예상외로 좋은 결과를 보여준 NetVLAD 모델을 이용하여 진행하였다
@@ -151,7 +158,7 @@ Computer & Information Science University of Michigan – Dearborn, https://publ
 
 ## 참고문헌
 
-Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian, University of Maryland Dartmouth College. 2018. "Deception Detection in Videos", The Thirty-Second AAAI Conference
+[1] Zhe Wu, Bharat Singh, Larry S. Davis, V. S. Subrahmanian, University of Maryland Dartmouth College. 2018. "Deception Detection in Videos", The Thirty-Second AAAI Conference
 on Artificial Intelligence (AAAI-18), pp.1695 - 1702.
 
-Gargi Joshi, Vaibhav Tasgaonkar, Aditya Deshpande, Aditya Desai, Bhavya Shah, Akshay Kushawaha, Aadith Sukumar, Kermi Kotecha, Saumit Kunder, Yoginii Waykole, Harsh Maheshwari, Abhijit Das, Shubhashi Gupta, Akanksha Subudhi, Priyanka Jain, N. K. Jain, Rahee Walambe & Ketan Kotecha. 15.03.2025. "Multimodal machine learning for deception detection using behavioral and physiological data", Scienctific Reports 15, Article number : 8943
+[2] Gargi Joshi, Vaibhav Tasgaonkar, Aditya Deshpande, Aditya Desai, Bhavya Shah, Akshay Kushawaha, Aadith Sukumar, Kermi Kotecha, Saumit Kunder, Yoginii Waykole, Harsh Maheshwari, Abhijit Das, Shubhashi Gupta, Akanksha Subudhi, Priyanka Jain, N. K. Jain, Rahee Walambe & Ketan Kotecha. 15.03.2025. "Multimodal machine learning for deception detection using behavioral and physiological data", Scienctific Reports 15, Article number : 8943
